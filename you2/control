@@ -1,0 +1,10 @@
+Package: org.brandonplank.you2
+Version: 0.1
+Section: Utilities
+Name:you2
+Description: A wip debugger
+Author: Brandon Plank
+Maintainer: Brandon Plank
+Depends: coreutils-bin, firmware (>= 9.0)
+Architecture: iphoneos-arm
+
